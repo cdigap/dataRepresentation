@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<library>
+	<book category="technical">
+		<isbn>0131774292</isbn> 
+		<title>XQuery Kick Start</title> 
+		<author>James McGovern</author> 
+	</book>
+	<book category="technical">
+		<isbn>01317742343</isbn> 
+		<title>Learning XML</title> 
+		<author>Erik T. Ray</author> 
+	</book>
+	<book category="cookery">
+		<isbn>4290131778</isbn> 
+		<title>INDIAN IN 7</title> 
+		<author>Monisha Bharadwaj</author> 
+	</book>
+	<book category="cookery">
+		<isbn>1770134298</isbn> 
+		<title>THERE IS NO PLANET B</title> 
+		<author>Mike Berners-Lee</author> 
+	</book>
+</library>	
